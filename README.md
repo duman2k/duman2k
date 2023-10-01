@@ -1,8 +1,8 @@
 <div id="header" align="center">
     <h1>Hi there, I'm  Duman </h1>
-    <video>
- <source src="https://i.gifer.com/6vIk.mp4">
-</video>
+    <video poster="https://i.gifer.com/fetch/w300-preview/4a/4a386d22c34e5a8f90afca9adbb6ce36.gif" class="full-media" loop="" autoplay="" playsinline="">
+        <source src="https://i.gifer.com/6vIk.mp4" type="video/mp4">
+    </video>
     <h3>Java Junior Developer from Astana</h3>
 </div>
 
