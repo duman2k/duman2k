@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Hi there, I'm  Duman </h1>
-     <div style="padding-top:74.000%;position:relative;"><img src="https://gifer.com/embed/6vIk" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></img></div><p><a href="https://gifer.com">через GIFER</a></p>
+     <iframe src="https://gifer.com/embed/6vIk" width=480 height=355.200 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
     <h3>Java Junior Developer from Astana</h3>
 </div>
 
