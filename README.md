@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Hi there, I'm  Duman </h1>
-     <iframe src="https://gifer.com/embed/6vIk" width=480 height=355.200 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
+     <img src="https://i.gifer.com/6vIk.gif/">
     <h3>Java Junior Developer from Astana</h3>
 </div>
 
