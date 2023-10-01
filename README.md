@@ -1,5 +1,6 @@
 <div id="header" align="center">
     <h1>Hi there, I'm  Duman </h1>
+     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
     <h3>Java Junior Developer from Astana</h3>
 </div>
 
