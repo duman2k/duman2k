@@ -1,6 +1,8 @@
 <div id="header" align="center">
     <h1>Hi there, I'm  Duman </h1>
-     <img src="https://i.gifer.com/6vIk.gif" height="200">
+    <video>
+ <source src="https://i.gifer.com/6vIk.mp4">
+</video>
     <h3>Java Junior Developer from Astana</h3>
 </div>
 
